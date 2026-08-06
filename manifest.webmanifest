@@ -1,0 +1,8 @@
+{
+  "name": "Jimmy's Kitchen",
+  "short_name": "Jimmy厨房",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#fff8f1"
+}
