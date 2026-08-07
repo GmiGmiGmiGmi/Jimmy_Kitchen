@@ -1,0 +1,11 @@
+{
+  "email_backend_target": true,
+  "sms_link_removed": true,
+  "owner_phone_removed": true,
+  "apps_script_endpoint_setting": true,
+  "backend_ack_event": true,
+  "hidden_iframe": true,
+  "custom_dish_feature_preserved": true,
+  "dish_images": 43,
+  "rice_image": true
+}
