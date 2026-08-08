@@ -44,3 +44,20 @@ After completing `SETUP_EMAIL.md`:
 - Confirmation appears only after the backend responds.
 
 Backend code: `google_apps_script/Code.gs`
+
+
+## V2.5 — iPhone confirmation fix
+
+The previous hidden-iframe acknowledgement could falsely time out on iPhone even when the email
+was actually sent. V2.5 removes that timeout mechanism.
+
+After pressing **发送订单给老公**, the app submits the order to the Google Apps Script endpoint
+and then shows:
+
+**Your order has been confirmed!**
+
+**老公已经收到今晚的点餐啦 ❤️**
+
+**Jimmy 很爱伟力 ❤️**
+
+If the browser itself cannot submit the request, it shows a network error instead.
