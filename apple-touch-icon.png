@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Apple Touch Icons</title>
+
+<!---YOUR BASIC APPLE TOUCH ICON--->
+<link rel="apple-touch-icon" href="imgs/apple-touch-icon.png">
+<!---YOUR 72 BY 72 PIXELS APPLE TOUCH ICON--->
+<link rel="apple-touch-icon" sizes="72x72" href="imgs/apple-touch-icon-72x72.png">
+<!---YOUR 114 BY 114 PIXELS APPLE TOUCH ICON--->
+<link rel="apple-touch-icon" sizes="114x114" href="imgs/apple-touch-icon-114x114.png">
+
+
+</head>
+<body>
+</body>
+</html>
